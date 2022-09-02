@@ -5,10 +5,6 @@ export var speed : int = 400
 
 
 
-func _process(delta):
-	pass
-
-
 
 func _physics_process(delta):
 	var velocity = Vector2.ZERO
